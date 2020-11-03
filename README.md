@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
 - [آدرس رزومه]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
-- [sop]https://github.com/mozhganmottaghi/SOP
+- [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP
 
 
 -------------------
@@ -30,12 +30,7 @@
     <th>روز</th>
    </tr>
   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th ></th>
+    
   <th>شنبه</th>
   </tr>
    <tr>
