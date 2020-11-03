@@ -3,8 +3,8 @@
 ### علی خرسند ابراهیمی 
 
 ---
-- [حساب گیت sop]https://github.com/Ali-khorsand-Ebrahimi
-- [آدرس /
+- [حساب گیت هاب]https://github.com/Ali-khorsand-Ebrahimi//
+- [آدرس رزومه]https://github.com/Ali-khorsand-Ebrahimi/
 - [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP
 
 
