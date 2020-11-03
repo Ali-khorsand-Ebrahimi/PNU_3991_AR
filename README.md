@@ -32,10 +32,10 @@
   <tr>
     <th ></th>
     <th ></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
     <th ></th>
-    <th ><a 
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >شبکه های کامپیوتری         01-1322013</a></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
   <th>شنبه</th>
   </tr>
    <tr>
@@ -56,9 +56,9 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">سیستم های عامل</a></th>
+     <th></th>
     <th ></th>
-     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction"> مهندسی نرم افزار 2 </a></th>
+     <th></th>
     <th></th>
     <th ></th>
     <th>سه شنبه</th>
@@ -67,7 +67,7 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">انقلاب اسلامی</a></th>
+    <th></th>
      <th ><a </a></th>
     <th>چهارشنبه</th>
   </tr>
