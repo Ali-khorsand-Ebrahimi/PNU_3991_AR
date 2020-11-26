@@ -6,7 +6,7 @@
 - [حساب گیت هاب]https://github.com/Ali-khorsand-Ebrahimi
 - [آدرس رزومه]https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md
 - [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP
-- [گواهینامه جاوااسکریپت از سولولرن]https://github.com/Ali-khorsand
+- [گواهینامه جاوااسکریپت از سولولرن]https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG
 - [لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن]https://www.sololearn.com/Certificate/1024-20275044/pdf/
 -------------------
 ## Winter Semester Courses 1399/2020
