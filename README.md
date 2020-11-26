@@ -6,8 +6,7 @@
 - [حساب گیت هاب]https://github.com/Ali-khorsand-Ebrahimi
 - [آدرس رزومه]https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md
 - [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP
-
-
+- [مدرک جاوااسکریپت از سولولرن]https://github.com/Ali-khorsand
 -------------------
 ## Winter Semester Courses 1399/2020
 
