@@ -5,8 +5,8 @@
 ---
 - [حساب گیت هاب]https://github.com/Ali-khorsand-Ebrahimi
 - [آدرس رزومه]https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md
-- [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP
--[لینک پروژه درس تعامل انسان و کامپیوتر ] https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods
+- [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP</br>
+- [لینک پروژه درس تعامل انسان و کامپیوتر ]https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods
 - [گواهینامه جاوااسکریپت از سولولرن]https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG
 - [لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن]https://www.sololearn.com/Certificate/1024-20275044/pdf/
 -------------------
