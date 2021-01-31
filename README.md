@@ -1,7 +1,7 @@
 # PNU_3991_AR
 ----------
 <h2 align="right">
- علی خرسند ابراهیمی </br>
+ علی خرسند ابراهیمی </br></br>
 شماره دانشجویی 970043183 
 </h2><h3 align="right">
 <a href="https://github.com/Ali-khorsand-Ebrahimi">حساب گیت هاب</a></br></br>
@@ -20,10 +20,10 @@
 -------------------</br>
 ## Winter Semester Courses 1399/2020
 
-<h3 align="right"> دروس کارشناسی</h3>
+<h3 align="right"> دروس کارشناسی
 
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
-
+</h3>
 -----------------
 
 
