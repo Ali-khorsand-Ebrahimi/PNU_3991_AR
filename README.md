@@ -1,7 +1,7 @@
 # PNU_3991_AR
 ----------
 <h2 align="right">
- علی خرسند ابراهیمی 
+ علی خرسند ابراهیمی </br>
 شماره دانشجویی 970043183 
 </h2><h3 align="right">
 - <a href="https://github.com/Ali-khorsand-Ebrahimi">حساب گیت هاب</a></br>
@@ -27,9 +27,9 @@
 -----------------
 
 
-## روز و ساعت ارائه دروس
+<h2 align="right">روز و ساعت ارائه دروس</h2>
 
-<table style="width:100%">
+<table align="center" style="width:100%">
   <tr>
     <th >16-18</th>
     <th >14-16</th>
