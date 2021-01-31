@@ -11,11 +11,11 @@
 - <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a>
 -------------------
 <h2 align="right">ارزیابی ها</h2>
-<h3 align="right">بخش عمومی</h3></br><h3 align="right">
+<h3 align="right">بخش عمومی</h3><h2 align="right">
 <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf">ارزیابی رزومه و انگیزه نامه</a></br>
-<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عمومی</a></br></h3>
-<h3 align="right">بخش دروس کارشناسی</h3></br>
-<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf">خلاصه ارزیابی درس تعامل انسان و کامپیوتر</a></br>
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عمومی</a></br></h2>
+<h3 align="right">بخش دروس کارشناسی</h3><h2 align="right">
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf">خلاصه ارزیابی درس تعامل انسان و کامپیوتر</a></h2></br>
 -------------------
 ## Winter Semester Courses 1399/2020
 
