@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ----------
-### علی خرسند ابراهیمی 
+## علی خرسند ابراهیمی 
 شماره دانشجویی 970043183 
 ---
 <a href="https://wallpaper-house.com">the </a>
@@ -14,9 +14,9 @@
 <h1 align="right">ارزیابی ها</h1></br>
 <h2 align="right">بخش عمومی</h2></br>
 - <a href=""><h3 align ="right">dddddd</h3></a></br>
-- <a href="">sop</a></br>
+- <a href=""><h3 align ="right">dddddd</h3></a></br>
 <h2 align="right">بخش دروس کارشناسی</h2></br>
-- <a href="">sop</a>
+- <a href=""><h3 align ="right">dddddd</h3></a>
 -------------------
 ## Winter Semester Courses 1399/2020
 
