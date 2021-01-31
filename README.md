@@ -1,14 +1,15 @@
 # PNU_3991_AR
 ----------
+<h5 align="right">
 ## علی خرسند ابراهیمی 
 شماره دانشجویی 970043183 
 ---
-- <a href="https://github.com/Ali-khorsand-Ebrahimi">حساب گیت هاب</a>
-- <a href="https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md">آدرس رزومه</a>
-- <a href="https://github.com/Ali-khorsand-Ebrahimi/SOP">sop</a>
-- <a href="https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods">پروژه درس تعامل انسان و کامپیوتر</a>
-- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG">گواهینامه جاوااسکریپت از سولولرن</a>
-- <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi">حساب گیت هاب</a></br>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md">آدرس رزومه</a></br>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/SOP">sop</a></br>
+- <a href="https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods">پروژه درس تعامل انسان و کامپیوتر</a></br>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG">گواهینامه جاوااسکریپت از سولولرن</a></br>
+- <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a></h5></br>
 -------------------
 <h2 align="right">ارزیابی ها</h2>
 <h3 align="right">بخش عمومی</h3><h4 align="right">
