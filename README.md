@@ -12,10 +12,10 @@
 -------------------
 <h2 align="right">ارزیابی ها</h2></br>
 <h3 align="right">بخش عمومی</h3></br>
-- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf"><h3 align ="right">ارزیابی رزومه و انگیزه نامه</h3></a></br>
-- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf"><h3 align ="right">خلاصه ارزیابی بخش عمومی</h3></a></br>
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf"><h3 align ="right">ارزیابی رزومه و انگیزه نامه</h3></a></br>
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf"><h3 align ="right">خلاصه ارزیابی بخش عمومی</h3></a></br>
 <h3 align="right">بخش دروس کارشناسی</h3></br>
-- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf"><h3 align ="right">خلاصه ارزیابی درس تعامل انسان و کامپیوتر</h3></a>
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf"><h3 align ="right">خلاصه ارزیابی درس تعامل انسان و کامپیوتر</h3></a>
 -------------------
 ## Winter Semester Courses 1399/2020
 
