@@ -4,12 +4,16 @@
 شماره دانشجویی 970043183 
 ---
 <a href="https://wallpaper-house.com">the </a>
-- [حساب گیت هاب]https://github.com/Ali-khorsand-Ebrahimi
-- [آدرس رزومه]https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md
-- [sop]https://github.com/Ali-khorsand-Ebrahimi/SOP
-- [پروژه درس تعامل انسان و کامپیوتر]https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods
-- [گواهینامه جاوااسکریپت از سولولرن]https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG
-- [لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن]https://www.sololearn.com/Certificate/1024-20275044/pdf/
+- <a href="https://github.com/Ali-khorsand-Ebrahimi">حساب گیت هاب</a>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md">آدرس رزومه</a>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/SOP">sop</a>
+- <a href="https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods">پروژه درس تعامل انسان و کامپیوتر</a>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG">گواهینامه جاوااسکریپت از سولولرن</a>
+- <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a>
+-------------------
+<h4 align="right">ارزیابی ها</h4></br>
+<h5 align="right">بخش عمومی</h5></br>
+<h5 align="right">بخش دروس کارشناسی</h5></br>
 -------------------
 ## Winter Semester Courses 1399/2020
 
