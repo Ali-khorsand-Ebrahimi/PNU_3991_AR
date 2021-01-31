@@ -3,7 +3,6 @@
 ## علی خرسند ابراهیمی 
 شماره دانشجویی 970043183 
 ---
-<a href="https://wallpaper-house.com">the </a>
 - <a href="https://github.com/Ali-khorsand-Ebrahimi">حساب گیت هاب</a>
 - <a href="https://github.com/Ali-khorsand-Ebrahimi/Ali.khorsand.ebrahimi/blob/gh-pages/Index.md">آدرس رزومه</a>
 - <a href="https://github.com/Ali-khorsand-Ebrahimi/SOP">sop</a>
@@ -11,12 +10,12 @@
 - <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG">گواهینامه جاوااسکریپت از سولولرن</a>
 - <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a>
 -------------------
-<h1 align="right">ارزیابی ها</h1></br>
-<h2 align="right">بخش عمومی</h2></br>
-- <a href=""><h3 align ="right">dddddd</h3></a></br>
-- <a href=""><h3 align ="right">dddddd</h3></a></br>
-<h2 align="right">بخش دروس کارشناسی</h2></br>
-- <a href=""><h3 align ="right">dddddd</h3></a>
+<h2 align="right">ارزیابی ها</h2></br>
+<h3 align="right">بخش عمومی</h3></br>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf"><h3 align ="right">ارزیابی رزومه و انگیزه نامه</h3></a></br>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf"><h3 align ="right">خلاصه ارزیابی بخش عمومی</h3></a></br>
+<h3 align="right">بخش دروس کارشناسی</h3></br>
+- <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf"><h3 align ="right">خلاصه ارزیابی درس تعامل انسان و کامپیوتر</h3></a>
 -------------------
 ## Winter Semester Courses 1399/2020
 
