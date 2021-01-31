@@ -27,7 +27,7 @@
 -----------------
 
 
-<h2 align="right">روز و ساعت ارائه دروس</h2>
+<h2 align="right"> روز و ساعت ارائه دروس</h2>
 
 <table align="center" style="width:100%">
   <tr>
