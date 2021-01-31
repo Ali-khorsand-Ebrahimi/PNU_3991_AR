@@ -12,8 +12,8 @@
 -------------------
 <h2 align="right">ارزیابی ها</h2>
 <h3 align="right">بخش عمومی</h3><h4 align="right">
-<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf">ارزیابی رزومه و انگیزه نامه</a></br>
--<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عمومی</a></br></h4>
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf">ارزیابی رزومه و انگیزه نامه</a></br></br>
+<a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عمومی</a></br></h4>
 <h3 align="right">بخش دروس کارشناسی</h3><h4 align="right">
 <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf">خلاصه ارزیابی درس تعامل انسان و کامپیوتر</a></h4></br>
 -------------------
