@@ -1,5 +1,6 @@
 # PNU_3991_AR
 ----------
+<h2 align="right">
 ### علی خرسند ابراهیمی 
 شماره دانشجویی 970043183 
 ---
@@ -9,7 +10,7 @@
 - <a href="https://github.com/Ali-khorsand-Ebrahimi/SOP">sop</a>
 - <a href="https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods">پروژه درس تعامل انسان و کامپیوتر</a>
 - <a href="https://github.com/Ali-khorsand-Ebrahimi/PNU_3991_AR/blob/main/Javascript_Certificate.JPG">گواهینامه جاوااسکریپت از سولولرن</a>
-- <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a>
+- <a href="https://www.sololearn.com/Certificate/1024-20275044/pdf/">لینک دانلود گواهینامه جاوااسکریپت از سایت سولولرن</a></h2>
 -------------------
 <h4 align="right">ارزیابی ها</h4></br>
 <h5 align="right">بخش عمومی</h5></br>
